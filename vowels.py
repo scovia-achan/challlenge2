@@ -1,7 +1,6 @@
 def countVowels(word):
     if isinstance(word,str):
 
-    
         vowels = "aeiou"
         # changing the word into lower case
         new_word = word.lower()
