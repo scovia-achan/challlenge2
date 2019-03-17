@@ -19,4 +19,5 @@ def fizzbuzz(a, b):
 
         elif y%3 != 0: 
             return y
+fizzbuzz([1,2,3], [1,6,'a',12])
 
